@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "96c96b613adc3c65",
@@ -178,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,11 +191,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b5bae625356abef",
+  "active": "275a97668e3f628d",
   "lastOpenFiles": [
-    "Untitled.md",
+    "README.md",
     "Calculus/Integration - 20-02-2025.md",
-    "Calculus",
-    "README.md"
+    "Test.md",
+    "Calculus"
   ]
 }
