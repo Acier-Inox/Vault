@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems/Processes and Threads.md",
+                "file": "Study List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Processes and Threads"
+              "title": "Study List"
             }
           }
         ],
@@ -221,14 +221,14 @@
   },
   "active": "1a06a763fc4832f7",
   "lastOpenFiles": [
+    "README.md",
+    "Operating Systems/Processes and Threads - 21-02-2025.md",
     "Operating Systems/Introduction to Operating Systems - 18-02-2025.md",
-    "Operating Systems/Processes and Threads.md",
     "Calculus/Taylor's Theorem - 13-02-2025.md",
     "Operating Systems",
     "Calculus/Integration - 20-02-2025.md",
     "Calculus/Taylor's Theorem.md",
     "Study List.md",
-    "README.md",
     "Test.md",
     "Calculus"
   ]
