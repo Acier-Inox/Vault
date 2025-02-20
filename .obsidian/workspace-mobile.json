@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus.md",
+                "file": "Study List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Calculus"
+              "title": "Study List"
             }
           }
         ]
@@ -163,8 +163,16 @@
   },
   "active": "33535b545e19fe01",
   "lastOpenFiles": [
-    "README.md",
+    "Calculus/Integration - 20-02-2025.md",
+    "Calculus/Taylor's Theorem - 13-02-2025.md",
     "Calculus.md",
+    "Study List.md",
+    "Calculus",
+    "/Study List.md",
+    "/Calculus/Taylor's Theorem.md",
+    "/Calculus/Integration - 20-02-2025.md",
+    "/Calculus",
+    "README.md",
     "/Calculus.md"
   ]
 }

@@ -50,7 +50,7 @@
 - Series
 - Multivariate Extrema
 - Power Series
-- Taylor's Theorem
+- ~~Taylor's Theorem
 - ~~Integration
 
 # Linear Algebra
