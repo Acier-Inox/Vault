@@ -74,7 +74,7 @@
 
 - **Hiragana & Katakana** (Week 1-5) – Recognition, reading, and writing practice.
 - **Kanji (Week 6-16)** –
-    - **Week 6-7 (L3):** 一二三四五六七八九十百千万円時
+    - ~~**Week 6-7 (L3):** 一二三四五六七八九十百千万円時
     - **Week 8-9 (L4):** 日本人月火水木金土曜上下中半
     - **Week 11-12 (L5):** 山川元気天私今田女男見行食飲
     - **Week 13-16 (L6 & L7):** 東西南北口出右左分先生大学外国京子小会社父母高校毎語文帰入
