@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra/Jom's algebra.md",
+                "file": "Calculus/Jom's calc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jom's algebra"
+              "title": "Jom's calc"
             }
           },
           {
@@ -304,8 +304,9 @@
   },
   "active": "3d5d63530b9fdc08",
   "lastOpenFiles": [
-    "Linear Algebra/11 LU Decomposition.md",
     "Linear Algebra/Jom's algebra.md",
+    "Calculus/Jom's calc.md",
+    "Linear Algebra/11 LU Decomposition.md",
     "Linear Algebra/Least Squares Solution.md",
     "conflict-files-obsidian-git.md",
     "Linear Algebra/18 Linear Regression.md",
