@@ -165,14 +165,14 @@
             "id": "a0bcea21a994ca5b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Linear Algebra/Least Squares Solution.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Least Squares Solution"
             }
           }
         ],
@@ -331,10 +331,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "487f5fcef84d0708",
+  "active": "a0bcea21a994ca5b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Linear Algebra/18 Linear Regression.md",
+    "conflict-files-obsidian-git.md",
     "Jom's note.md",
     "README.md",
     "Linear Algebra/Least Squares Solution.md",
