@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra/18 Linear HAHAHA Regression.md",
+                "file": "Linear Algebra/Least Squares Solution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18 Linear HAHAHA Regression"
+              "title": "Least Squares Solution"
             }
           },
           {
@@ -304,18 +304,18 @@
   },
   "active": "3d5d63530b9fdc08",
   "lastOpenFiles": [
-    "Jom's note.md",
+    "Linear Algebra/Gram-Schmidt Process.md",
+    "Linear Algebra/Least Squares Solution.md",
+    "Linear Algebra/QR Decomposition.md",
     "Linear Algebra/18 Linear HAHAHA Regression.md",
+    "Jom's note.md",
     "Jom's notes/Calculus (Jom)",
     "Jom's notes/Linear Algebra (Jom)",
     "Jom's notes",
-    "Linear Algebra/Gram-Schmidt Process.md",
     "README.md",
     "conflict-files-obsidian-git.md",
-    "Linear Algebra/Least Squares Solution.md",
     "Linear Algebra/11 LU Decomposition.md",
     "Least Squares Solution.md",
-    "Linear Algebra/QR Decomposition.md",
     "Logic/Practical - 21-02-2025.md",
     "Study List.md",
     "Calculus/Taylor's Theorem - 13-02-2025.md",
