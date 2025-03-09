@@ -5,7 +5,7 @@ Linear regression is a fundamental method in statistics and machine learning tha
 ### **Key Ideas:**
 
 - Use of **least squares fitting** to find the best-fit line.
-- Expressing regression as a **linear system** Ax=bAx = bAx=b.
+- Expressing regression as a **linear system** $Ax=b$.
 - **QR decomposition** as an efficient method to solve least squares problems.
 
 ---
