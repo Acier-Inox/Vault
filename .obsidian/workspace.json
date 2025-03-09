@@ -174,23 +174,9 @@
               "icon": "diff",
               "title": "Diff: workspace.json"
             }
-          },
-          {
-            "id": "adbf1b0015d5b5d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -345,7 +331,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "adbf1b0015d5b5d1",
+  "active": "487f5fcef84d0708",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Linear Algebra/18 Linear Regression.md",
