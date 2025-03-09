@@ -160,9 +160,37 @@
               "icon": "lucide-file",
               "title": "18 Linear Regression"
             }
+          },
+          {
+            "id": "a0bcea21a994ca5b",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
+          },
+          {
+            "id": "adbf1b0015d5b5d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -317,10 +345,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e727bc575de1963a",
+  "active": "adbf1b0015d5b5d1",
   "lastOpenFiles": [
-    "Jom's note.md",
+    "conflict-files-obsidian-git.md",
     "Linear Algebra/18 Linear Regression.md",
+    "Jom's note.md",
     "README.md",
     "Linear Algebra/Least Squares Solution.md",
     "Linear Algebra/Gram-Schmidt Process.md",
